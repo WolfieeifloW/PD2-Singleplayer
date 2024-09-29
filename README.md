@@ -15,7 +15,7 @@ If you're just looking for PlugY without the item pack, characters, or modpacks,
 
 When new seasons/patches are released, you'll need to run PD2 via the launcher to update the game. Running the game via the launcher will also update your lootfilter.
 
-The **PlugY&nbsp;(testing)** file is a shortcut for using [modpacks](https://github.com/BetweenWalls/PD2-Singleplayer/tree/main#modpacks) and is preconfigured to use the default English installation directory. If your **Diablo&nbsp;II** directory is *not* **C:\Program&nbsp;Files&nbsp;(x86)\Diablo&nbsp;II** then it won't function until you modify its "Target" and "Start&nbsp;in" properties.
+The **PlugY&nbsp;(testing)** file is a shortcut for using [modpacks](https://github.com/BetweenWalls/PD2-Singleplayer/tree/main#modpacks).
 
 ### Troubleshooting
 Setup:
